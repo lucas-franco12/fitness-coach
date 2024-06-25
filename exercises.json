@@ -1,0 +1,740 @@
+[
+    {
+        "ID": "1",
+        "Name of exercise": "Push-ups",
+        "Target muscles": ["Arms", "Chest", "Shoulders"],
+        "Difficulty": "Beginner",
+        "Location": "At Home"
+    },
+    {
+        "ID": "2",
+        "Name of exercise": "Squats",
+        "Target muscles": ["Legs", "Back"],
+        "Difficulty": "Beginner",
+        "Location": "At Home"
+    },
+    {
+        "ID": "3",
+        "Name of exercise": "Pull-ups",
+        "Target muscles": ["Arms", "Back", "Shoulders"],
+        "Difficulty": "Advanced",
+        "Location": "Gym"
+    },
+    {
+        "ID": "4",
+        "Name of exercise": "Bench Press",
+        "Target muscles": ["Chest", "Arms", "Shoulders"],
+        "Difficulty": "Intermediate",
+        "Location": "Gym"
+    },
+    {
+        "ID": "5",
+        "Name of exercise": "Deadlifts",
+        "Target muscles": ["Legs", "Back", "Full body"],
+        "Difficulty": "Advanced",
+        "Location": "Gym"
+    },
+    {
+        "ID": "6",
+        "Name of exercise": "Dumbbell Shoulder Press",
+        "Target muscles": ["Shoulders", "Arms"],
+        "Difficulty": "Intermediate",
+        "Location": "Gym"
+    },
+    {
+        "ID": "7",
+        "Name of exercise": "Lunges",
+        "Target muscles": ["Legs"],
+        "Difficulty": "Beginner",
+        "Location": "At Home"
+    },
+    {
+        "ID": "8",
+        "Name of exercise": "Dips",
+        "Target muscles": ["Arms", "Chest", "Shoulders"],
+        "Difficulty": "Intermediate",
+        "Location": "Gym"
+    },
+    {
+        "ID": "9",
+        "Name of exercise": "Barbell Rows",
+        "Target muscles": ["Back", "Arms", "Shoulders"],
+        "Difficulty": "Intermediate",
+        "Location": "Gym"
+    },
+    {
+        "ID": "10",
+        "Name of exercise": "Plank",
+        "Target muscles": ["Full body"],
+        "Difficulty": "Beginner",
+        "Location": "At Home"
+    },
+    {
+        "ID": "11",
+        "Name of exercise": "Russian Twists",
+        "Target muscles": ["Full Bodys"],
+        "Difficulty": "Beginner",
+        "Location": "At Home"
+    },
+    {
+        "ID": "12",
+        "Name of exercise": "Push Press",
+        "Target muscles": ["Shoulders", "Arms", "Legs"],
+        "Difficulty": "Intermediate",
+        "Location": "Gym"
+    },
+    {
+        "ID": "13",
+        "Name of exercise": "Leg Press",
+        "Target muscles": ["Legs"],
+        "Difficulty": "Intermediate",
+        "Location": "Gym"
+    },
+    {
+        "ID": "14",
+        "Name of exercise": "Hammer Curls",
+        "Target muscles": ["Arms"],
+        "Difficulty": "Intermediate",
+        "Location": "Gym"
+    },
+    {
+        "ID": "15",
+        "Name of exercise": "Tricep Dips",
+        "Target muscles": ["Arms", "Shoulders"],
+        "Difficulty": "Intermediate",
+        "Location": "Gym"
+    },
+    {
+        "ID": "16",
+        "Name of exercise": "Pull-up Variations",
+        "Target muscles": ["Arms", "Back", "Shoulders"],
+        "Difficulty": "Advanced",
+        "Location": "Gym"
+    },
+    {
+        "ID": "17",
+        "Name of exercise": "Cable Rows",
+        "Target muscles": ["Back", "Arms", "Shoulders"],
+        "Difficulty": "Intermediate",
+        "Location": "Gym"
+    },
+    {
+        "ID": "18",
+        "Name of exercise": "Romanian Deadlifts",
+        "Target muscles": ["Legs", "Back"],
+        "Difficulty": "Advanced",
+        "Location": "Gym"
+    },
+    {
+        "ID": "19",
+        "Name of exercise": "Mountain Climbers",
+        "Target muscles": ["Legs", "Full body"],
+        "Difficulty": "Beginner",
+        "Location": "At Home"
+    },
+    {
+        "ID": "20",
+        "Name of exercise": "Bench Dips",
+        "Target muscles": ["Arms", "Chest", "Shoulders"],
+        "Difficulty": "Intermediate",
+        "Location": "At Home"
+    },
+   
+   
+    {
+      "ID": "21",
+      "Name of exercise": "Calf Raises",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+   },
+   {
+      "ID": "22",
+      "Name of exercise": "Lat Pulldown",
+      "Target muscles": ["Back"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+   },
+   {
+      "ID": "23",
+      "Name of exercise": "Pec Deck Fly",
+      "Target muscles": ["Chest"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+   },
+   {
+      "ID": "24",
+      "Name of exercise": "Shoulder Lateral Raises",
+      "Target muscles": ["Shoulders"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+   },
+   {
+      "ID": "25",
+      "Name of exercise": "Ab Wheel Rollout",
+      "Target muscles": ["Full body"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+   },
+   {
+      "ID": "26",
+      "Name of exercise": "Bicep Curl with Resistance Band",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+   },
+   {
+      "ID": "27",
+      "Name of exercise": "Seated Leg Curl",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Beginner",
+      "Location": "Gym"
+   },
+   {
+      "ID": "28",
+      "Name of exercise": "Incline Dumbbell Press",
+      "Target muscles": ["Chest", "Shoulders"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+   },
+   {
+      "ID": "29",
+      "Name of exercise": "Hip Thrusts",
+      "Target muscles": ["Legs", "Back"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+   },
+   {
+      "ID": "30",
+      "Name of exercise": "Reverse Fly",
+      "Target muscles": ["Back", "Shoulders"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+   },
+   
+   
+   {
+      "ID": "31",
+      "Name of exercise": "Tricep Extension with Resistance Band",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+   },
+   
+   
+   {
+      "ID": "32",
+      "Name of exercise": "Shoulder Raises with Resistance Band",
+      "Target muscles": ["Shoulders"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+   },
+   
+   
+   {
+      "ID": "33",
+      "Name of exercise": "Romanian Split Squats",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+   },
+   
+   
+   {
+      "ID": "34",
+      "Name of exercise": "Pendulum Squats",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+   },
+   
+   
+   {
+      "ID": "35",
+      "Name of exercise": "Diamond Push Ups",
+      "Target muscles": ["Arms", "Chest"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+   },
+   
+   
+   {
+      "ID": "36",
+      "Name of exercise": "V-Sits",
+      "Target muscles": ["Full Body"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+   },
+   
+   
+   {
+      "ID": "37",
+      "Name of exercise": "Burpees",
+      "Target muscles": ["Full body", "Chest", "Legs"],
+      "Difficulty": "Intermediate",
+      "Location": "At Home"
+   },
+   
+   
+   {
+      "ID": "38",
+      "Name of exercise": "Bicycle Crunches",
+      "Target muscles": ["Full Body"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+   },
+   
+   
+   {
+      "ID": "39",
+      "Name of exercise": "High Knees",
+      "Target muscles": ["Full body", "Legs"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+   },
+   
+   
+   {
+      "ID": "40",
+      "Name of exercise": "Dead Hang",
+      "Target muscles": ["Arms", "Back"],
+      "Difficulty": "Beginner",
+      "Location": "Gym"
+   },
+   {
+      "ID": "41",
+      "Name of exercise": "Jumping Jacks",
+      "Target muscles": ["Full Body"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "42",
+      "Name of exercise": "Wall Sit",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "43",
+      "Name of exercise": "Chest Press with Resistance Bands",
+      "Target muscles": ["Chest"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "44",
+      "Name of exercise": "Bodyweight Skull Crushers",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "45",
+      "Name of exercise": "Superman Exercise",
+      "Target muscles": ["Back"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "46",
+      "Name of exercise": "Reverse Lunges",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Intermediate",
+      "Location": "At Home"
+    },
+    {
+      "ID": "47",
+      "Name of exercise": "Handstand Push-ups",
+      "Target muscles": ["Arms", "Shoulders"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+    },
+    {
+      "ID": "48",
+      "Name of exercise": "Dumbbell Pullover",
+      "Target muscles": ["Chest", "Back"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "49",
+      "Name of exercise": "Jump Squats",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Intermediate",
+      "Location": "At Home"
+    },
+    {
+      "ID": "50",
+      "Name of exercise": "Barbell Bicep Curls",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Beginner",
+      "Location": "Gym"
+    },
+    {
+      "ID": "51",
+      "Name of exercise": "Chin-ups",
+      "Target muscles": ["Arms", "Back", "Shoulders"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "52",
+      "Name of exercise": "Pistol Squats",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+    },
+    {
+      "ID": "53",
+      "Name of exercise": "Tricep Kickbacks",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "54",
+      "Name of exercise": "Renegade Rows",
+      "Target muscles": ["Back", "Arms"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+    },
+    {
+      "ID": "55",
+      "Name of exercise": "Leg Raises",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "56",
+      "Name of exercise": "Cable Chest Flyes",
+      "Target muscles": ["Chest"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "57",
+      "Name of exercise": "Russian Push-ups",
+      "Target muscles": ["Arms", "Chest", "Shoulders"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+    },
+    {
+      "ID": "58",
+      "Name of exercise": "Reverse Plank",
+      "Target muscles": ["Full Body"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "59",
+      "Name of exercise": "Front Squats",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "60",
+      "Name of exercise": "Zottman Curls",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "61",
+      "Name of exercise": "Chest Dips",
+      "Target muscles": ["Chest", "Arms", "Shoulders"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "62",
+      "Name of exercise": "Single-Leg Romanian Deadlifts",
+      "Target muscles": ["Legs", "Back"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+    },
+    {
+      "ID": "63",
+      "Name of exercise": "Close Grip Bench Press",
+      "Target muscles": ["Arms", "Chest", "Shoulders"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "64",
+      "Name of exercise": "Jump Rope",
+      "Target muscles": ["Legs", "Arms"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "65",
+      "Name of exercise": "Hamstring Curls",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "66",
+      "Name of exercise": "Decline Push-ups",
+      "Target muscles": ["Arms", "Chest", "Shoulders"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+    },
+    {
+      "ID": "67",
+      "Name of exercise": "Barbell Deadlifts",
+      "Target muscles": ["Legs", "Back"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "68",
+      "Name of exercise": "Single-Arm Dumbbell Rows",
+      "Target muscles": ["Back", "Arms"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "69",
+      "Name of exercise": "Leg Extension",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Beginner",
+      "Location": "Gym"
+    },
+    {
+      "ID": "70",
+      "Name of exercise": "Plank Shoulder Taps",
+      "Target muscles": ["Shoulders"],
+      "Difficulty": "Intermediate",
+      "Location": "At Home"
+    },
+    {
+      "ID": "71",
+      "Name of exercise": "Dumbbell Lunges",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "72",
+      "Name of exercise": "Bodyweight Tricep Dips",
+      "Target muscles": ["Arms", "Shoulders"],
+      "Difficulty": "Intermediate",
+      "Location": "At Home"
+    },
+    {
+      "ID": "73",
+      "Name of exercise": "Standing Calf Raises",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "74",
+      "Name of exercise": "Seated Dumbbell Shoulder Press",
+      "Target muscles": ["Shoulders", "Arms"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "75",
+      "Name of exercise": "Lateral Lunge",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "76",
+      "Name of exercise": "Tricep Pushdowns",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Beginner",
+      "Location": "Gym"
+    },
+    {
+      "ID": "77",
+      "Name of exercise": "Standing Military Press",
+      "Target muscles": ["Shoulders", "Arms"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "78",
+      "Name of exercise": "Nordic Lean",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "79",
+      "Name of exercise": "Kettlebell Swings",
+      "Target muscles": ["Legs", "Back"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "80",
+      "Name of exercise": "Barbell Shoulder Press",
+      "Target muscles": ["Shoulders", "Arms"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "81",
+      "Name of exercise": "Leg Press Machine Calf Raises",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "82",
+      "Name of exercise": "Dumbbell Floor Press",
+      "Target muscles": ["Chest", "Arms"],
+      "Difficulty": "Beginner",
+      "Location": "Gym"
+    },
+    {
+      "ID": "83",
+      "Name of exercise": "Resistance Band Bicep Curls",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "84",
+      "Name of exercise": "Reverse Grip Bent Over Rows",
+      "Target muscles": ["Back", "Arms"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "85",
+      "Name of exercise": "Leg Curl Machine",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Beginner",
+      "Location": "Gym"
+    },
+    {
+      "ID": "86",
+      "Name of exercise": "Push-up Variations",
+      "Target muscles": ["Arms", "Chest", "Shoulders"],
+      "Difficulty": "Intermediate",
+      "Location": "At Home"
+    },
+    {
+      "ID": "87",
+      "Name of exercise": "Jumping Lunges",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+    },
+    {
+      "ID": "88",
+      "Name of exercise": "Lying Tricep Extensions",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Intermediate",
+      "Location": "At Home"
+    },
+    {
+      "ID": "89",
+      "Name of exercise": "Dumbbell Romanian Deadlifts",
+      "Target muscles": ["Legs", "Back"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "90",
+      "Name of exercise": "Pull-up Bar Hang",
+      "Target muscles": ["Arms", "Back"],
+      "Difficulty": "Beginner",
+      "Location": "At Home"
+    },
+    {
+      "ID": "91",
+      "Name of exercise": "Side Plank",
+      "Target muscles": ["Shoulders"],
+      "Difficulty": "Intermediate",
+      "Location": "At Home"
+    },
+    {
+      "ID": "92",
+      "Name of exercise": "Kettlebell Goblet Squat",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "93",
+      "Name of exercise": "Dumbbell Hammer Curls",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "94",
+      "Name of exercise": "Seated Cable Rows",
+      "Target muscles": ["Back", "Arms"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "95",
+      "Name of exercise": "Leg Press Machine",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "96",
+      "Name of exercise": "Close Grip Pull-downs",
+      "Target muscles": ["Back", "Arms"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "97",
+      "Name of exercise": "Dumbbell Front Raises",
+      "Target muscles": ["Shoulders"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "98",
+      "Name of exercise": "Dumbbell Step-ups",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Beginner",
+      "Location": "Gym"
+    },
+    {
+      "ID": "99",
+      "Name of exercise": "Skater Lunges",
+      "Target muscles": ["Legs"],
+      "Difficulty": "Advanced",
+      "Location": "At Home"
+    },
+    {
+      "ID": "100",
+      "Name of exercise": "Cable Bicep Curls",
+      "Target muscles": ["Arms"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    },
+    {
+      "ID": "101",
+      "Name of exercise": "Weighted Dips",
+      "Target muscles": ["Arms", "Shoulders"],
+      "Difficulty": "Advanced",
+      "Location": "Gym"
+    },
+    {
+      "ID": "102",
+      "Name of exercise": "Barbell Squats",
+      "Target muscles": ["Legs", "Back"],
+      "Difficulty": "Intermediate",
+      "Location": "Gym"
+    }
+   
+]
+   

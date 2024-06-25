@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/fuotado/USF/COP4530/FinalProject/workoutCoachFinal",
+      "program": "/Users/fuotado/USF/COP4530/FinalProject/workoutCoachFinal/build/Debug/outDebug"
+    }
+  ]
+}
